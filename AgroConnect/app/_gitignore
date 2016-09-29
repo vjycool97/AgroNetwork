@@ -1,1 +1,12 @@
 /build
+bin
+gen
+.classpath
+build
+.project
+project.properties
+.settings
+icon512.png
+*.html
+*.apk
+*.txt
