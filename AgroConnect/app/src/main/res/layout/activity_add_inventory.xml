@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="agroconnectapp.agroconnect.in.agroconnect.AddInventoryActivity">
+
+    <android.support.design.widget.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/AppTheme.AppBarOverlay">
+
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="?attr/colorPrimary"
+            app:popupTheme="@style/AppTheme.PopupOverlay" />
+
+    </android.support.design.widget.AppBarLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@android:color/black"
+        android:layout_marginTop="@dimen/d16"
+        android:layout_marginBottom="@dimen/d16"
+        android:textSize="20sp"
+        android:gravity="center"
+        android:text="@string/inventory_detail"/>
+
+    <include
+        android:id="@+id/commodity_et"
+        layout="@layout/custom_auto_complete_text_view"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:weightSum="10"
+        android:layout_marginLeft="@dimen/d16"
+        android:layout_marginRight="@dimen/d16"
+        android:layout_marginBottom="@dimen/d8"
+        android:orientation="horizontal">
+        <EditText
+            android:id="@+id/quantity_et"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="numberDecimal"
+            android:layout_weight="4"
+            android:textColor="@android:color/black"
+            android:hint="@string/quantity"/>
+        <Spinner
+            android:id="@+id/quantity_unit_spinner"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="6" />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:weightSum="10"
+        android:layout_marginLeft="@dimen/d16"
+        android:layout_marginRight="@dimen/d16"
+        android:layout_marginBottom="@dimen/d8"
+        android:orientation="horizontal">
+        <EditText
+            android:id="@+id/rate_et"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="4"
+            android:inputType="numberDecimal"
+            android:textColor="@android:color/black"
+            android:hint="@string/hint_rate"/>
+
+        <Spinner
+            android:id="@+id/rate_unit_spinner"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="6" />
+        </LinearLayout>
+
+
+    <include
+        android:id="@+id/location_et"
+        layout="@layout/custom_auto_complete_text_view"/>
+
+    <EditText
+        android:id="@+id/descrption_et"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/d16"
+        android:layout_marginRight="@dimen/d16"
+        android:layout_marginBottom="@dimen/d8"
+        android:textColor="@android:color/black"
+        android:maxLength="100"
+        android:inputType="textMultiLine"
+        android:hint="@string/hint_description"/>
+
+    <ProgressBar
+        android:id="@+id/progress_bar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:visibility="gone"/>
+    <Button
+        android:id="@+id/submit_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:background="@android:color/holo_blue_dark"
+        android:text="@string/btn_submit"/>
+
+</LinearLayout>

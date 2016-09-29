@@ -1,0 +1,58 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".fragments.AgentDetailFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <ScrollView
+        android:id="@+id/middle_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_margin="@dimen/d4"
+            android:background="@android:color/white">
+            <TextView
+                android:id="@+id/location_tv"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/d16"
+                android:textSize="16sp"
+                android:padding="@dimen/d2"
+                android:layout_marginLeft="@dimen/d8"
+                android:layout_marginBottom="@dimen/d8"
+
+                />
+            <TextView
+                android:id="@+id/phone_number_tv"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="16sp"
+                android:padding="@dimen/d2"
+                android:layout_margin="@dimen/d8"
+                />
+
+            <TextView
+                android:id="@+id/agent_type_tv"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="16sp"
+                android:padding="@dimen/d2"
+                android:layout_margin="@dimen/d8"
+                />
+
+            <TextView
+                android:id="@+id/description_tv"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="16sp"
+                android:padding="@dimen/d2"
+                android:layout_margin="@dimen/d8"
+                />
+
+        </LinearLayout>
+    </ScrollView>
+</FrameLayout>

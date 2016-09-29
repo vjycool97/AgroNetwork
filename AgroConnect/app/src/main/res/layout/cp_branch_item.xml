@@ -1,0 +1,69 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:baselineAligned="true"
+    android:minHeight="@dimen/list_item_height_small"
+    android:orientation="vertical"
+    android:paddingBottom="8dp"
+    android:paddingLeft="@dimen/list_item_padding_left"
+    android:paddingRight="@dimen/list_item_padding_right">
+
+    <include layout="@layout/cp_image_item" />
+    <!--<ImageView
+        android:id="@+id/imageView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:minHeight="180dp"
+        android:maxHeight="200dp"
+        android:scaleType="centerInside"
+        android:src="@drawable/crop_protection_placeholder"/>-->
+
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:padding="3dp">
+        <TextView
+            android:id="@+id/cp_title"
+            style="?android:textAppearanceMedium"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:textColor="@color/colorPrimary"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            tools:text="Title"/>
+        <ImageView
+            android:visibility="gone"
+            android:id="@+id/magnifyIV"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:src="@mipmap/magnifying_glass"/>
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/container_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:visibility="gone"
+        tools:visibility="visible"
+        android:gravity="center_horizontal"
+        android:layout_margin="4dp"
+        android:animateLayoutChanges="true"
+        android:orientation="vertical"
+        tools:layout_height="200dp">
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="2dp"
+            android:layout_margin="8dp"
+            android:background="@color/colorPrimaryDark"/>
+
+    </LinearLayout>
+
+
+</LinearLayout>

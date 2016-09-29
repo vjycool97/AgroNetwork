@@ -1,0 +1,89 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">24dp</dimen>
+    <dimen name="activity_vertical_margin">24dp</dimen>
+    <dimen name="sliding_menu_right_offset">75dp</dimen>
+    <dimen name="d24_profile">36dp</dimen>
+    <dimen name="d16_profile">34dp</dimen>
+    <dimen name="d8_profile">12dp</dimen>
+    <dimen name="d36_like_btn">54dp</dimen>
+
+    <!-- for layout dimens -->
+    <dimen name="d0">0dp</dimen>
+    <dimen name="d1">1dp</dimen>
+    <dimen name="d2">3dp</dimen>
+    <dimen name="d3">4dp</dimen>
+    <dimen name="d4">6dp</dimen>
+    <dimen name="d5">7dp</dimen>
+    <dimen name="d6">9dp</dimen>
+    <dimen name="d7">11dp</dimen>
+    <dimen name="d8">12dp</dimen>
+    <dimen name="d9">14dp</dimen>
+    <dimen name="d10">15dp</dimen>
+    <dimen name="d12">18dp</dimen>
+    <dimen name="d14">21dp</dimen>
+    <dimen name="d16">24dp</dimen>
+    <dimen name="d16_prod">24dp</dimen>
+    <dimen name="d18">27dp</dimen>
+    <dimen name="d20">30dp</dimen>
+    <dimen name="d25">38dp</dimen>
+    <dimen name="d28">42dp</dimen>
+    <dimen name="d24">36dp</dimen>
+    <dimen name="d30">45dp</dimen>
+    <dimen name="d32">48dp</dimen>
+    <dimen name="d34">51dp</dimen>
+    <dimen name="d36">54dp</dimen>
+    <dimen name="d36_prod">60dp</dimen>
+    <dimen name="d40">60dp</dimen>
+    <dimen name="d48">72dp</dimen>
+    <dimen name="d50">90dp</dimen>
+    <dimen name="d60">90dp</dimen>
+    <dimen name="d64">66dp</dimen>
+    <dimen name="d68">102dp</dimen>
+    <dimen name="d80">120dp</dimen>
+    <dimen name="d100">150dp</dimen>
+    <dimen name="d110">165dp</dimen>
+    <dimen name="d110_prod">165dp</dimen>
+    <dimen name="d120">180dp</dimen>
+     <dimen name="d126">188dp</dimen>
+    <dimen name="d130">200dp</dimen>
+    <dimen name="d120_prod">180dp</dimen>
+    <dimen name="d160">240dp</dimen>
+    <dimen name="d240">360dp</dimen>
+    <dimen name="d256">384dp</dimen>
+    <dimen name="d290">436dp</dimen>
+    <dimen name="d340">510dp</dimen>
+    <dimen name="d400">600dp</dimen>
+
+    <!-- for font size -->
+    <dimen name="f1">1sp</dimen>
+    <dimen name="f2">3sp</dimen>
+    <dimen name="f3">4sp</dimen>
+    <dimen name="f4">6sp</dimen>
+    <dimen name="f5">7sp</dimen>
+    <dimen name="f6">9sp</dimen>
+    <dimen name="f7">11sp</dimen>
+    <dimen name="f8">12sp</dimen>
+    <dimen name="f9">14sp</dimen>
+    <dimen name="f10">15sp</dimen>
+    <dimen name="f12">18sp</dimen>
+    <dimen name="f14">21sp</dimen>
+    <dimen name="f16">24sp</dimen>
+    <dimen name="f18">27sp</dimen>
+    <dimen name="f20">30sp</dimen>
+    <dimen name="f22">33sp</dimen>
+    <dimen name="f24">36sp</dimen>
+    <dimen name="f26">39sp</dimen>
+    <dimen name="f28">42sp</dimen>
+    <dimen name="f30">45sp</dimen>
+    <dimen name="f32">48sp</dimen>
+    <dimen name="tabs_height">72dp</dimen>
+    <dimen name="viewpager_header_height">540dp</dimen>
+    <dimen name="space_middle">36dp</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="header_height">447dp</dimen>
+    <dimen name="min_header_height">375dp</dimen>
+    <dimen name="header_logo_size">150dp</dimen>
+
+</resources>

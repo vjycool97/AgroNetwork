@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:tools="http://schemas.android.com/tools"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:orientation="vertical">
+<!--
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="@color/colorPrimary"
+        android:elevation="5dp"/>-->
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@android:color/white"
+        tools:context="agroconnectapp.agroconnect.in.agroconnect.fragments.MandiPricesFragment">
+
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <LinearLayout
+                    android:id="@+id/commodity_layout"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="@dimen/d10"
+                    android:layout_marginTop="@dimen/d4"
+                    android:gravity="center"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="@dimen/d8"
+                        android:text="@string/select_commodity"
+                        android:textColor="@android:color/darker_gray"
+                        android:textSize="16sp"/>
+
+                    <TextView
+                        android:id="@+id/commodity_btn"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="@dimen/d8"
+                        android:background="@drawable/rectangle_round_corners"
+                        android:gravity="center"
+                        android:paddingBottom="@dimen/d10"
+                        android:paddingLeft="@dimen/d16"
+                        android:paddingRight="@dimen/d16"
+                        android:paddingTop="@dimen/d10"
+                        android:text="@string/commodity"
+                        android:textColor="@android:color/black"
+                        android:textSize="16sp"/>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:orientation="horizontal"
+                    android:weightSum="2">
+
+                    <LinearLayout
+                        android:id="@+id/mandi_layout"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:gravity="center"
+                        android:orientation="vertical">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/select_mandi"
+                            android:textColor="@android:color/darker_gray"
+                            android:textSize="16sp"/>
+
+                        <TextView
+                            android:id="@+id/mandi_btn"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="@dimen/d8"
+                            android:background="@drawable/rectangle_round_corners"
+                            android:gravity="center"
+                            android:paddingBottom="@dimen/d10"
+                            android:paddingLeft="@dimen/d16"
+                            android:paddingRight="@dimen/d16"
+                            android:paddingTop="@dimen/d10"
+                            android:text="@string/mandi"
+                            android:textColor="@android:color/black"
+                            android:textSize="16sp"/>
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:id="@+id/date_layout"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:gravity="center"
+                        android:orientation="vertical">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/select_date"
+                            android:textColor="@android:color/darker_gray"
+                            android:textSize="16sp"/>
+
+                        <TextView
+                            android:id="@+id/date_btn"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="@dimen/d8"
+                            android:background="@drawable/rectangle_round_corners"
+                            android:gravity="center"
+                            android:paddingBottom="@dimen/d10"
+                            android:paddingLeft="@dimen/d16"
+                            android:paddingRight="@dimen/d16"
+                            android:paddingTop="@dimen/d10"
+                            android:text="@string/date"
+                            android:textColor="@android:color/black"
+                            android:textSize="16sp"/>
+                    </LinearLayout>
+                </LinearLayout>
+
+                <TableLayout
+                    android:id="@+id/table_container"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:padding="10dp"
+                    android:layout_marginBottom="50dp"
+                    android:shrinkColumns="*"
+                    android:stretchColumns="*"/>
+            </LinearLayout>
+        </ScrollView>
+
+        <ProgressBar
+            android:id="@+id/progress_bar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:visibility="gone"/>
+    </FrameLayout>
+</LinearLayout>

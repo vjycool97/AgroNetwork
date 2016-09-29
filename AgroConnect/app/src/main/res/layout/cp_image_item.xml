@@ -1,0 +1,13 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/frameLayoutImageContainer"
+    style="@style/WizardPageImageContainer"
+    tools:background="@color/amber_500">
+
+    <ImageView
+        android:id="@+id/imageView"
+        style="@style/WizardPageImage"
+        android:maxHeight="200dp"
+        tools:src="@drawable/crop_protection_icon"
+        tools:ignore="ContentDescription" />
+</FrameLayout>

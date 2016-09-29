@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_profile"
+            android:icon="@drawable/ic_person_black_24dp"
+            android:title="@string/action_my_profile"
+            android:checked="false"/>
+        <item
+            android:id="@+id/nav_notification"
+            android:icon="@drawable/ic_notifications_black_24dp"
+            android:title="@string/notification"
+            android:checked="false"/>
+        <item
+            android:id="@+id/nav_lang"
+            android:icon="@drawable/ic_language_black_24dp"
+            android:title="@string/action_language"
+            android:checked="false"/>
+        <item
+            android:id="@+id/nav_contact"
+            android:icon="@drawable/ic_call_black_24dp"
+            android:title="@string/action_contact"
+            android:checked="false"/>
+        <item
+            android:id="@+id/nav_rating"
+            android:icon="@drawable/ic_grade_black_24dp"
+            android:title="@string/action_rate"
+            android:checked="false"/>
+        <item
+            android:id="@+id/nav_invite"
+            android:icon="@drawable/ic_share_black_24dp"
+            android:title="@string/action_invite"
+            android:checked="false"/>
+    </group>
+</menu>

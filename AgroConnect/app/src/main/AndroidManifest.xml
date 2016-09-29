@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="agroconnectapp.agroconnect.in.agroconnect">
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.READ_CONTACTS" />
+    <uses-permission android:name="android.permission.RECEIVE_SMS" />
+    <uses-permission android:name="android.permission.READ_SMS" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <uses-feature
+        android:name="android.hardware.camera"
+        android:required="false" />
+
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <application
+        android:name=".AgroConnect"
+        android:allowBackup="true"
+        android:icon="@mipmap/icon_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        tools:replace="android:icon">
+        <activity
+            android:name=".activities.SplashActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden|adjustPan">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".activities.RegistrationActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".activities.InitActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".activities.ProfileActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".activities.FragmentWrapperActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+       <!-- <activity
+            android:name=".activities.HomeActivity"
+            android:label="@string/app_name"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" />-->
+        <activity
+            android:name=".activities.NewsFeedSearchActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateAlwaysVisible" />
+        <activity
+            android:name=".activities.NewsFeedActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.SEND" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+
+                <data android:mimeType="text/*" />
+                <data android:mimeType="image/*" />
+                <data android:mimeType="video/*" />
+                <data android:mimeType="audio/*" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".activities.VideoActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".activities.AgroWebView"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".activities.FeedThreeActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".activities.FirstNewsFeedActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".activities.SecondNewsFeedActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".activities.ThirdNewsFeedActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".activities.NewAdvisoryActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".activities.UserAdvisoryActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".activities.SearchAdvisoryActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateAlwaysVisible" />
+        <activity
+            android:name=".activities.NotificationActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".MainActivity"
+            android:configChanges="locale"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".ListingDetailActivity"
+            android:configChanges="locale"
+            android:label="@string/title_activity_listing_detail"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".ProfileActivity"
+            android:configChanges="locale"
+            android:label="@string/title_activity_profile"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".AddInventoryActivity"
+            android:configChanges="locale"
+            android:label="@string/title_activity_add_inventory"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".MyInventoryActivity"
+            android:configChanges="locale"
+            android:label="@string/title_activity_my_inventory"
+            android:screenOrientation="portrait" />
+
+        <receiver
+            android:name="com.google.android.gms.gcm.GcmReceiver"
+            android:exported="true"
+            android:permission="com.google.android.c2dm.permission.SEND">
+            <intent-filter>
+                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+
+                <category android:name="com.example.gcm" />
+            </intent-filter>
+        </receiver>
+
+        <service
+            android:name=".services.MyGcmService"
+            android:exported="false">
+            <intent-filter>
+                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+            </intent-filter>
+        </service>
+        <service
+            android:name=".services.MyInstanceIDListenerService"
+            android:exported="false">
+            <intent-filter>
+                <action android:name="com.google.android.gms.iid.InstanceID" />
+            </intent-filter>
+        </service>
+        <service
+            android:name=".services.RegistrationService"
+            android:exported="false" />
+        <service
+            android:name=".services.FreshDataService"
+            android:exported="false" />
+
+        <meta-data
+            android:name="io.fabric.ApiKey"
+            android:value="a0ae61c75dff0a35ce12b48e683f91b89d7f8d29" />
+
+        <activity
+            android:name=".SearchActivity"
+            android:configChanges="locale"
+            android:label="@string/search"
+            android:screenOrientation="portrait" />
+       <!-- <activity
+            android:name=".MandiPricesFragment"
+            android:configChanges="locale"
+            android:screenOrientation="portrait" />-->
+        <activity
+            android:name=".AdvisoryActivity"
+            android:configChanges="locale"
+            android:label="@string/discuss"
+            android:screenOrientation="portrait" />
+       <!-- <activity
+            android:name="agroconnectapp.agroconnect.in.agroconnect.fragments.CropProtectionFragment"
+            android:configChanges="locale"
+            android:label="@string/crop_protection"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppThemeCP" />-->
+        <activity
+            android:name="com.etiennelawlor.imagegallery.library.activities.ImageGalleryActivity"
+            android:configChanges="locale"
+            android:label=""
+            android:theme="@style/ImageGalleryTheme"
+            tools:replace="android:configChanges" />
+        <activity
+            android:name="com.etiennelawlor.imagegallery.library.activities.FullScreenImageGalleryActivity"
+            android:configChanges="locale"
+            android:label=""
+            android:theme="@style/ImageGalleryTheme"
+            tools:replace="android:configChanges" />
+        // Added for Sugar ORM
+        <meta-data
+            android:name="DATABASE"
+            android:value="agroconnect.db" />
+        <meta-data
+            android:name="VERSION"
+            android:value="9" />
+        <meta-data
+            android:name="QUERY_LOG"
+            android:value="false" />
+        <meta-data
+            android:name="DOMAIN_PACKAGE_NAME"
+            android:value="agroconnectapp.agroconnect.in.agroconnect.networkclient.model" />
+
+        <activity android:name=".activities.ImageActivity"></activity>
+    </application>
+
+</manifest>

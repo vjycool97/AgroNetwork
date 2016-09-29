@@ -1,0 +1,61 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:app="http://schemas.android.com/apk/res-auto"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:orientation="vertical">
+    <RelativeLayout
+        android:id="@+id/root_feed_layout"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <android.support.v7.widget.RecyclerView
+                android:id="@+id/feed_list_view"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@color/gray_background"/>
+
+            <TextView
+                android:id="@+id/answer_btn"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="bottom"
+                android:background="@android:color/holo_blue_dark"
+                android:gravity="center"
+                android:padding="@dimen/d14"
+                android:text="@string/answer_question"
+                android:textColor="@android:color/white"
+                android:textSize="@dimen/f20"
+                android:textStyle="bold"
+                android:visibility="gone"/>
+        </FrameLayout>
+
+        <ProgressBar
+            android:id="@+id/progress_bar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:visibility="gone"/>
+
+        <include
+            android:id="@+id/error_layout"
+            layout="@layout/error_layout"
+            android:visibility="gone"/>
+
+        <android.support.design.widget.FloatingActionButton
+            android:id="@+id/fab"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:layout_margin="@dimen/fab_margin"
+            android:src="@drawable/ic_add_white_24dp"
+            android:visibility="gone"
+            app:backgroundTint="@color/md_yellow_A700"/>
+
+    </RelativeLayout>
+</LinearLayout>

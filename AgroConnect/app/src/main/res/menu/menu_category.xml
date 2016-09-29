@@ -1,0 +1,31 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="agroconnectapp.agroconnect.in.agroconnect.CategorySelectionActivity" >
+
+    <item android:id="@+id/action_notification"
+        android:icon="@mipmap/notif_icon"
+        android:title="@string/notification"
+        app:showAsAction="always"/>
+
+    <item android:id="@+id/action_my_profile"
+        android:title="@string/action_my_profile"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+    <item android:id="@+id/action_invite"
+        android:title="@string/action_invite"
+        android:orderInCategory="300"
+        app:showAsAction="never" />
+    <item android:id="@+id/action_rate"
+        android:title="@string/action_rate"
+        android:orderInCategory="400"
+        app:showAsAction="never" />
+    <item android:id="@+id/action_contact"
+        android:title="@string/action_contact"
+        android:orderInCategory="500"
+        app:showAsAction="never" />
+    <item android:id="@+id/action_language"
+        android:title="@string/action_language"
+        android:orderInCategory="600"
+        app:showAsAction="never" />
+</menu>

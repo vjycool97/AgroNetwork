@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="generic_server_down">Not able to complete the last action. Please try again!</string>
+    <string name="no_internet">No network connection</string>
+    <string name="generic_error">Encountered some problem connection to the server</string>
+</resources>

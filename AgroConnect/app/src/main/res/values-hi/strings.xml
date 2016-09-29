@@ -1,0 +1,222 @@
+<resources>
+    <string name="app_name">AgroConnect</string>
+    <string name="action_invite">मित्रों को आमंत्रित करें</string>
+    <string name="action_rate">हमें रेटिंग दें</string>
+    <string name="action_contact">हमसे संपर्क करें</string>
+    <string name="action_language">भाषा चुनें</string>
+    <string name="action_my_profile">मेरी प्रोफाइल</string>
+    <string name="search">खोज</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="regFragOneS1">अपना दूरभाष क्रमांक दर्ज करें</string>
+    <string name="register">रजिस्टर</string>
+    <string name="regFragTwoS1">में शामिल होने से </string>
+    <string name="regFragTwoS2">आप शीघ्र ही वन टाइम पासवर्ड प्राप्त होगा। ऑटो का पता लगाने ...ै</string>
+    <string name="cancel">रद्द करना</string>
+    <string name="set">सेट</string>
+    <string name="whatsapp_string">अधिक जानकारी के लिए एग्रो कनेक्ट को इस लिंक पे क्लिक करके डाउनलोड करे:
+        \n https://play.google.com/store/apps/details?id=agroconnectapp.agroconnect.in.agroconnect</string>
+    <string name="choose_type">प्रकार चुनें</string>
+    <string name="error_player">खेल वीडियो में त्रुटि</string>
+    <string name="news_feed">समाचार फ़ीड</string>
+    <string name="all">नए पोस्ट</string>
+    <string name="my_crops">मेरी फसलें</string>
+    <string name="most_viewed">सबसे ज्यादा देखा गया</string>
+    <string name="subject_title">यहाँ लिखें विषय / शीर्षक</string>
+    <string name="write_message">यहां अपना संदेश लिखें</string>
+    <string name="type_here_to_search">खोज करने के लिए यहां लिखें</string>
+    <string name="post">भेज़े</string>
+    <string name="public_label">जनता</string>
+    <string name="submit">जमा करें</string>
+    <string name="post_question_here">पोस्ट यहाँ सवाल</string>
+    <string name="loading">लोड हो रहा है</string>
+    <string name="no_record_found">कोई रिकॉर्ड नहीं मिला</string>
+    <string name="my_post">मेरी पोस्ट</string>
+    <string name="crop_protection">फसल सुरक्षा</string>
+    <string name="select_location">स्थान चुनें</string>
+    <string name="notification">अधिसूचना</string>
+    <string name="label">यदि आप इस प्रश्न का उत्तर जानते हैं तो इस किसान की मदद करने के लिए नीचे दिए बटन पे क्लिक करके अपना सुझाव दें |</string>
+    <string name="expert">विशेषज्ञ</string>
+    <string name="feedback_label">एग्रो कनेक्ट को बेहतर बनने के लिए हमारी मदद करें | यदि आप एप्प में कुछ नया देखना चाहते हैं तो हमें बताएं एवं मंडी कीमतें, फसल सुरक्षा, सलाहकार सेक्शन, समाचार फीड को बेहतर बनने के लिए हमें सुझाव दीजिये |</string>
+    <string name="write_feedback_here">यहाँ प्रतिक्रिया लिखें</string>
+    <string name="app_share">अपने किसान मित्रों से अपने सवालों पे सलाह लेने के लिए उनको आमंत्रित करें एग्रो कनेक्ट एप्प पे. "आमंत्रण भेजें" बटन पे क्लिक करके.</string>
+    <string name="later">बाद में</string>
+    <string name="please_share">कृपया बाँटें</string>
+    <string name="update">अद्यतन</string>
+    <string name="update_message">नई सुविधाओं और बग फिक्स पाने के लिए एप्लिकेशन अपडेट करें।</string>
+    <string name="thank_you">धन्यवाद</string>
+    <string name="say_thank_you">किसान कह रहा है धन्यवाद</string>
+    <string name="general_post">जनरल पोस्ट</string>
+    <string name="general_post_label">अप्प क्या बताना या पूछना चाहते हैं हमें विस्तार से बताइए।</string>
+    <string name="crop_related_question">फसल से संबंधित प्रश्न</string>
+    <string name="crop_name">फसल नाम</string>
+    <string name="seed_variety">बीज वैराइटी</string>
+    <string name="how_old_is_crop">बोवाई को कितने दिन हुए ?</string>
+    <string name="area_of_filed">आपके खेत का ( एरिया / क्षेत्र फल ) कितना है?</string>
+    <string name="any_pesticide_fertiliser"> आपने कोई कीटनाशक / उर्वरक या कुछ भी प्रोयोग किया ?</string>
+    <string name="crop_related_label"> हमें अपनी समस्या के बारे में विस्तार से बताएं।</string>
+    <string name="if_you_want_to_ask">ऊपर दिए गए विषय पर अगर आप कुछ बताना चाहते हैं तो लिखने के लिए नीचे दिए गए बटन को दबाएं</string>
+
+
+
+
+
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_listing_detail">इन्वेंटरी विस्तार</string>
+    <string name="title_activity_profile">उपयोगकर्ता प्रोफ़ाइल</string>
+    <string name="try_again">पुनः प्रयास करें</string>
+    <string name="error_msg_internet">इंटरनेट से जोड़ने के लिए एक समस्या हो रहा है। कृपया पुन: प्रयास करें।</string>
+    <string name="error_msg_unknown">कुछ त्रुटि हुई। कृपया पुन: प्रयास करें।</string>
+    <string name="shortlist">अल्पसूची</string>
+    <string name="share">बाँटें</string>
+    <string name="title_activity_edit_profile">प्रोफ़ाइल बनाएँ</string>
+    <string name="profile_img_caption">प्रोफ़ाइल छवि अपलोड करने के लिए नीचे क्लिक करें </string>
+    <string name="hint_name">आपका पूरा नाम</string>
+    <string name="hint_mandi">आपकी मंडी</string>
+    <string name="hint_rate">दर</string>
+    <string name="quantity">मात्रा</string>
+    <string name="hint_city">आपका शहर</string>
+    <string name="location">स्थान</string>
+    <string name="mobile_number">मोबाइल नंबर</string>
+    <string name="user_desciption">अपने बारे में हमें बताएं</string>
+    <string name="hint_description">कमोडिटी विवरण जैसे गुणवत्ता</string>
+    <string name="hint_commodity">कमोडिटी जिसका आप व्यापार करते हैं</string>
+    <string name="button_save">सुरक्षित करना</string>
+    <string name="button_camera">कैमरा</string>
+    <string name="button_buy">मैं खरीदना चाहता हूँ</string>
+    <string name="button_sell">मैं बेचना चाहता हूँ</string>
+    <string name="button_gallery">गेलरी</string>
+    <string name="img_picker_caption">अपनी तस्वीर अपलोड का उपयोग</string>
+    <string name="title_activity_add_inventory">इन्वेंटरी जोड़े</string>
+    <string name="title_activity_my_inventory">मेरी इन्वेंटरी</string>
+    <string name="title_activity_verification">मोबाइल नंबर सत्यापन</string>
+    <string name="unsupported_operation">ऑपरेशन डिवाइस के द्वारा समर्थित नहीं</string>
+    <string name="enter_number">सत्यापन के लिए अपना मोबाइल नंबर दर्ज करें</string>
+    <string name="specify_requirement">अपनी आवश्यकता को निर्दिष्ट करें</string>
+    <string name="btn_submit">जमा करें</string>
+    <string name="inventory_detail">इन्वेंटरी विस्तार</string>
+    <string name="added_to_shortlist">अल्पसूची में जोड़ा</string>
+    <string name="removed_from_shortlist">अल्पसूची से हटा दिया</string>
+    <string name="already_shortlisted">पहले से ही मौजूद</string>
+    <string name="info_text">आप जो खोज रहे हैं आपको नहीं मिला ? कोइ चिंता नहीं। अब अपनी आवश्यकता के पोस्ट करें ।</string>
+    <string name="add_request">अनुरोध जोड़ने के लिए यहाँ क्लिक करें</string>
+    <string name="select_commodity">कमोडिटी चयन</string>
+    <string name="select_mandi">मंडी चयन</string>
+    <string name="select_date">तारीख़ चुनें</string>
+    <string name="commodity">कमोडिटी</string>
+    <string name="mandi">मंडी भाव</string>
+    <string name="city">शहर</string>
+    <string name="date">तारीख़</string>
+    <string name="data_unavailable">कीमतें शीघ्र ही अपडेट हो जाएगी , कृपया कुछ समय के बाद की जाँच करें। तब तक आप कल की कीमतों की जांच कर सकते हैं।</string>
+    <string name="remove">हटाना</string>
+    <string name="buyer">खरीददार</string>
+    <string name="seller">विक्रेता</string>
+    <string name="description">विवरण</string>
+    <string name="profession">व्यवसाय</string>
+    <string name="price">क़ीमत</string>
+    <string name="details">विवरण</string>
+    <string name="listings">लिस्टिंग</string>
+    <string name="feed">फ़ीड</string>
+    <string name="profile">प्रोफाइल</string>
+    <string name="english">English</string>
+    <string name="hindi">हिंदी</string>
+    <string name="not_available">उपलब्ध नहीं है</string>
+    <string name="commodity_name_example">कमोडिटी नाम जैसे सेब , अमरूद</string>
+    <string name="commodity_required">कमोडिटी खाली नहीं हो सकता</string>
+    <string name="quantity_required">मात्रा खाली नहीं हो सकता</string>
+    <string name="inventory_add_success">सूची में जोड़ा गया है</string>
+    <string name="edit_profile">प्रोफाइल एडिट करें</string>
+    <string name="your_profession">आपका व्यवसाय</string>
+    <string name="name_required">नाम खाली नहीं हो सकता</string>
+    <string name="city_required">शहर खाली नहीं हो सकता</string>
+    <string name="profession_required">कृपया अपने पेशे का चयन करें</string>
+    <string name="profile_saved">प्रोफ़ाइल सुरक्षित किया गया है</string>
+    <string name="available_to_sell">बेचने के लिए उपलब्ध</string>
+    <string name="available_to_buy">खरीदने के लिए उपलब्ध</string>
+    <string name="inventory_by">इन्वेंटरी</string>
+    <string name="min_price">न्यूनतम \u20B9</string>
+    <string name="max_price">अधिकतम \u20B9</string>
+    <string name="modal_price">औसत \u20B9</string>
+    <string name="number_verified">मोबाइल नंबर सत्यापित</string>
+    <string name="one_time_password">एक बार इस्तेमाल किये जाने वाला पासवर्ड</string>
+    <string name="verifying_number">हम मोबाइल नंबर को सत्यापित कर रहे हैं कृपया प्रतीक्षा करें</string>
+    <string name="otp_required"> वन टाइम पासवर्ड खाली नहीं हो सकता</string>
+    <string name="enter_valid_number">वैध मोबाइल नंबर दर्ज करें</string>
+    <string name="mandi_prices_note">नोट: सभी कीमत रुपये प्रति क्विंटल में हैं</string>
+    <string name="question">प्रश्न</string>
+    <string name="solution">समाधान</string>
+    <string name="answer_question">इस प्रश्न का उत्तर दे</string>
+    <string name="add_new_question">नया सवाल जोड़े</string>
+    <string name="add_new_answer">नया जवाब दे</string>
+    <string name="title">शीर्षक</string>
+    <string name="title_required">शीर्षक खाली नहीं हो सकता</string>
+    <string name="description_required">विवरण खाली नहीं हो सकता</string>
+    <string name="solution_required">समाधान खाली नहीं हो सकता</string>
+    <string name="post_successful">पोस्ट सफल</string>
+    <string name="view_all_posts">मेरी सभी पोस्ट </string>
+    <string name="crop">फ़सल</string>
+    <string name="problem_diagnosed_by_advisor">समस्या निदान</string>
+    <string name="product_to_be_applied">उत्पाद प्रयोग करने के लिए</string>
+    <string name="dosage">मात्रा</string>
+    <string name="application_time">आवेदन समय</string>
+    <string name="additional_advice">अतिरिक्त सलाह</string>
+    <string name="hint_problem_diagnosed">समस्या निदान</string>
+    <string name="reenter_number">मोबाइल नंबर फिर से दर्ज करने के लिए यहाँ क्लिक करें</string>
+    <string name="enter_otp">मोबाइल नंबर के लिए भेजा ओटीपी दर्ज करें</string>
+    <string name="share_text">पूछिए विशेषज्ञ सलाहकार से अपनी फसल से जुड़े किसी भी सवाल का जवाब घर बैठे एवं जानिए मंडी के भाव क्षण भर में | अभी डाउनलोड करें एग्रो कनेक्ट एप यहाँ क्लिक करके</string>
+    <string name="add_image">समस्या / रोग की फ़ोटो डालें</string>
+
+    <string name="organization">संगठन</string>
+    <string name="department">विभाग</string>
+    <string name="email">ईमेल</string>
+    <string name="organization_required">संगठन खाली नहीं हो सकता</string>
+    <string name="department_required">विभाग खाली नहीं हो सकता</string>
+    <string name="email_required">ईमेल खाली नहीं हो सकता</string>
+
+    <string name="buy_sell_feed">खरीद / बिक्री फ़ीड</string>
+    <string name="mandi_prices">मंडी कीमतें</string>
+    <string name="discuss">चर्चा</string>
+    <string name="input_suppliers">इनपुट आपूर्तिकर्तां ( जल्द ही आ रहा है)</string>
+    <string name="no_network_connection">इंटरनेट से जोड़ने के लिए एक समस्या हो रहा है। कृपया पुन: प्रयास करें।</string>
+
+    <string name="crop_protection_title">फसल सुरक्षा</string>
+    <string name="write">लिखें</string>
+    <string name="add_note">नोट - फसल/पौधे की फोटो जरूर डालें | इससे बेहतर जवाब मिलने की संभावना बढ़ जाती है|</string>
+
+    <string name="rs">\u20A8</string>
+
+    <string-array name="agent_types">
+        <item>अन्य</item>
+        <item>किसान</item>
+        <item>सलाहकार</item>
+        <item>फील्ड एजेंट</item>
+        <item>कमीशन एजेंट</item>
+        <item>थोक विक्रेता</item>
+        <item>फुटकर विक्रेता</item>
+        <item>निर्यातक</item>
+        <item>आर्थीय</item>
+        <item>बीजक</item>
+        <item>अन्य</item>
+        <item>विक्रेता(कीटनाशक,उर्वरक,बीज,मशीनरी)</item>
+    </string-array>
+
+    <string-array name="quantity_units_array">
+        <item>किलो</item>
+        <item>टन</item>
+        <item>क्विंटल</item>
+        <item>पैकेट</item>
+        <item>टुकड़े</item>
+        <item>Gram</item>
+    </string-array>
+    <string-array name="rate_units_array">
+        <item>प्रति किलो</item>
+        <item>प्रति टन</item>
+        <item>प्रति क्विंटल</item>
+        <item>प्रति पैकेट</item>
+        <item>प्रति टुकड़े</item>
+        <item>प्रति ग्राम</item>
+    </string-array>
+
+</resources>

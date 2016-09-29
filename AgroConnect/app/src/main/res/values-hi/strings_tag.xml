@@ -1,0 +1,1045 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tag">
+        <item>Carrot</item>
+        <item>Lady Finger</item>
+        <item>French Beans</item>
+        <item>Potato</item>
+        <item>Cucumber</item>
+        <item>Lemon</item>
+        <item>Onion</item>
+        <item>Spinach</item>
+        <item>Mushroom</item>
+        <item>Asparagus</item>
+        <item>Turnip</item>
+        <item>Radish</item>
+        <item>Broccoli</item>
+        <item>Bell Pepper</item>
+        <item>Chili</item>
+        <item>Cabbage</item>
+        <item>Cauliflower</item>
+        <item>Leek</item>
+        <item>Peas</item>
+        <item>Bitter Gourds</item>
+        <item>Zucchini</item>
+        <item>Bottle Gourd</item>
+        <item>Sponge Gourd</item>
+        <item>Eggplant/Brinjal</item>
+        <item>Tomato</item>
+        <item>Drumstick</item>
+        <item>Curry leaves</item>
+        <item>Amaranth</item>
+        <item>Cluster Beans</item>
+        <item>Turmeric</item>
+        <item>Mint Leaves</item>
+        <item>Ginger</item>
+        <item>Ginger Dry</item>
+        <item>Fenugreek Leaves</item>
+        <item>Coriander/Cilantro</item>
+        <item>Soyabean</item>
+        <item>Banana</item>
+        <item>Apple</item>
+        <item>Mango</item>
+        <item>Guava</item>
+        <item>Pineapple</item>
+        <item>Grapes</item>
+        <item>Grapefruit</item>
+        <item>Kiwifruit</item>
+        <item>Sapodilla</item>
+        <item>Orange</item>
+        <item>Pomegranate</item>
+        <item>Custard Apple</item>
+        <item>Watermelon</item>
+        <item>Papaya</item>
+        <item>Apricot</item>
+        <item>Plums</item>
+        <item>Strawberry</item>
+        <item>Raspberry</item>
+        <item>Blueberry</item>
+        <item>Jamun</item>
+        <item>Blackcurrant</item>
+        <item>Redcurrants</item>
+        <item>Jackfruit</item>
+        <item>Cherry</item>
+        <item>Berry</item>
+        <item>Dates</item>
+        <item>Sapota</item>
+        <item>Yam/Sweet Potato</item>
+        <item>Green Berry/Zizyphus</item>
+        <item>Graviola</item>
+        <item>Fig</item>
+        <item>Cantaloupe/Yellow Melon</item>
+        <item>Chickoo</item>
+        <item>Barley</item>
+        <item>Rice Bran</item>
+        <item>Fonio</item>
+        <item>Wheat</item>
+        <item>Millets</item>
+        <item>Vetch</item>
+        <item>Maize</item>
+        <item>Sorghum</item>
+        <item>Scarlet Runner Bean</item>
+        <item>Lupins</item>
+        <item>Rice</item>
+        <item>Rye</item>
+        <item>Triticale</item>
+        <item>Rice Bean</item>
+        <item>Peanut</item>
+        <item>GroundNut</item>
+        <item>Black Gram (Urad)</item>
+        <item>Navy Bean</item>
+        <item>Broad Bean</item>
+        <item>Chickpea</item>
+        <item>Bambara Bean / Bambara Groundnut</item>
+        <item>Winged Bean</item>
+        <item>Mung Bean</item>
+        <item>Kidney Beans</item>
+        <item>Lima Beans</item>
+        <item>Moth Bean</item>
+        <item>Black Eyed Pea(Lobia)</item>
+        <item>Velvet Bean</item>
+        <item>Haricot Beans</item>
+        <item>Azuki Beans</item>
+        <item>Tepary Bean</item>
+        <item>Pigeon Pea</item>
+        <item>Yam Bean</item>
+        <item>Pinto Bean</item>
+        <item>Garden Pea</item>
+        <item>Lentils</item>
+        <item>Jack Bean</item>
+        <item>Sunflower oil</item>
+        <item>S+A119oyabean oil</item>
+        <item>Coconut oil</item>
+        <item>Vegetable oil</item>
+        <item>Sesame oil</item>
+        <item>Vanaspati Ghee</item>
+        <item>Castor Oil</item>
+        <item>Corn oil</item>
+        <item>Celery Seed Oil</item>
+        <item>Peanut Oil</item>
+        <item>Cottonseed Oil</item>
+        <item>Rice Bran Oil</item>
+        <item>Mustard Oil</item>
+        <item>Rapeseed Oil</item>
+        <item>Olive Oil</item>
+        <item>Palm Oil</item>
+        <item>Flax Seed Oil</item>
+        <item>Safflower Oil</item>
+        <item>Cumin Seed Oil</item>
+        <item>Hazelnut Oil</item>
+        <item>Natural Honey</item>
+        <item>Amla Powder</item>
+        <item> Cotton</item>
+        <item> Areca Nut</item>
+        <item> Sugar Cane</item>
+        <item>Almond</item>
+        <item>Cashewnuts</item>
+        <item>Dried Figs</item>
+        <item>Walnuts</item>
+        <item>Peanuts</item>
+        <item>Pine Nuts</item>
+        <item>Pistachios</item>
+        <item>Raisins</item>
+        <item>Saffron</item>
+        <item>Water Melon seeds</item>
+        <item>Chirongi/Charauli</item>
+        <item>Coconut</item>
+        <item>MuskMelon/ Kharbuja</item>
+        <item>Lichi</item>
+        <item>Mousambi</item>
+        <item>Peach</item>
+        <item>Pear</item>
+        <item>Beetroot</item>
+        <item>Green Chili</item>
+        <item>Methi</item>
+        <item>Pumpkin</item>
+        <item>Red Chili</item>
+        <item>Ridge Gourd</item>
+        <item>Capsicum</item>
+        <item>Banan</item>
+        <item>Spices</item>
+        <item>Red Chillies</item>
+        <item>orangr</item>
+        <item>hfvn</item>
+        <item>aaloo</item>
+        <item>red onion</item>
+        <item>Pulses</item>
+        <item>t3st</item>
+        <item>pink guava fruits</item>
+        <item>Ajwan</item>
+        <item>Alasande Gram</item>
+        <item>Alsandikai</item>
+        <item>Amaranthus</item>
+        <item>Amla</item>
+        <item>Amphophalus</item>
+        <item>Arecanut(Betelnut/Supari)</item>
+        <item>Arhar (Tur)</item>
+        <item>Arhar (Tur/Red Gram)</item>
+        <item>Ashgourd</item>
+        <item>Avare Dal</item>
+        <item>Bajra(Pearl Millet)</item>
+        <item>Banana - Green</item>
+        <item>Barley (Jau)</item>
+        <item>Beans</item>
+        <item>Beaten Rice</item>
+        <item>Bengal Grams(Gram)</item>
+        <item>Ber (Zizyphus)</item>
+        <item>Betal Leaves</item>
+        <item>Bhindi(Ladies Finger)</item>
+        <item>Big Gram</item>
+        <item>Bitter gourd</item>
+        <item>Black Grams (Urd Beans)</item>
+        <item>Black pepper</item>
+        <item>Brinjal</item>
+        <item>Bull</item>
+        <item>Bunch Beans</item>
+        <item>Castor Seed</item>
+        <item>Chapparad Avare</item>
+        <item>Chennangidal</item>
+        <item>Chikoos(Sapota)</item>
+        <item>Chili Red</item>
+        <item>Chilly Capsicum</item>
+        <item>Chow Chow</item>
+        <item>Coconut Seed</item>
+        <item>Colacasia</item>
+        <item>Copra</item>
+        <item>Coriander(Leaves)</item>
+        <item>Corriander seed</item>
+        <item>Cotton Seed</item>
+        <item>Cowpea (Lobia)</item>
+        <item>Cowpea(Veg)</item>
+        <item>Cucumbar(Kheera)</item>
+        <item>Cummin Seed(Jeera)</item>
+        <item>Dalda</item>
+        <item>Dry Chillies</item>
+        <item>Dry Fodder</item>
+        <item>Egg</item>
+        <item>Elephant Yam (Suran)</item>
+        <item>Field Pea</item>
+        <item>Fish</item>
+        <item>French Beans (Frasbean)</item>
+        <item>Garlic</item>
+        <item>Ghee</item>
+        <item>Gingelly (Sesamum, Sesame, Til)</item>
+        <item>Gingelly Oil</item>
+        <item>Gram Raw(Chholia)</item>
+        <item>Green Avare (W)</item>
+        <item>Green Chilli</item>
+        <item>Green ginger</item>
+        <item>Green Gram Dal</item>
+        <item>Green Grams (Moong)</item>
+        <item>Green Peas</item>
+        <item>Ground Nut Seed</item>
+        <item>Groundnut (Split)</item>
+        <item>Groundnut pods (raw)</item>
+        <item>Guar</item>
+        <item>Guar Seed(Cluster Beans Seed)</item>
+        <item>Gur(Jaggery)</item>
+        <item>Hybrid Cumbu</item>
+        <item>Indian Beans (Seam)</item>
+        <item>Isabgul (Psyllium)</item>
+        <item>Jowar(Sorghum)</item>
+        <item>Jute</item>
+        <item>Kabuli Chana(Chickpeas-White)</item>
+        <item>Karamani</item>
+        <item>Karbuja</item>
+        <item>Kinnow</item>
+        <item>Knool Khol</item>
+        <item>Kulthi(Horses Gram)</item>
+        <item>Lak</item>
+        <item>Leafy Vegetable</item>
+        <item>Lentil(Masur)</item>
+        <item>Lilly</item>
+        <item>Lime</item>
+        <item>Little gourd (Kundru)</item>
+        <item>Long Melon(Kakri)</item>
+        <item>Lotus Sticks</item>
+        <item>Mahua</item>
+        <item>Mahua Seed</item>
+        <item>Maida Atta</item>
+        <item>Mango (Raw-Ripe)</item>
+        <item>Mashrooms</item>
+        <item>Methi Seeds</item>
+        <item>Methi(Leaves)</item>
+        <item>Mint(Pudina)</item>
+        <item>Moath Dal</item>
+        <item>Mousambi(Sweet Lime)</item>
+        <item>Musk Melon</item>
+        <item>Mustard</item>
+        <item>Navane</item>
+        <item>Onion Green</item>
+        <item>Ox</item>
+        <item>Paddy(Dhan)</item>
+        <item>Papaya (Raw)</item>
+        <item>Pears</item>
+        <item>Peas cod</item>
+        <item>Peas Wet</item>
+        <item>Peas(Dry)</item>
+        <item>Pegeon Pea (Arhar Fali)</item>
+        <item>Pigs</item>
+        <item>Pointed gourd (Parval)</item>
+        <item>Raddish</item>
+        <item>Ragi (Finger Millet)</item>
+        <item>Rajgir</item>
+        <item>Raya</item>
+        <item>Red Grams</item>
+        <item>Ridgeguard(Tori)</item>
+        <item>Round gourd</item>
+        <item>Rubber</item>
+        <item>Same/Savi</item>
+        <item>Seemebadnekai</item>
+        <item>Sesamum(Sesame,Gingelly,Til)</item>
+        <item>Snakeguard</item>
+        <item>Soanf</item>
+        <item>Soapnut</item>
+        <item>Soji</item>
+        <item>Squash(Chappal Kadoo)</item>
+        <item>Sugar</item>
+        <item>Sunflower</item>
+        <item>Sunflower Seed</item>
+        <item>Surat Beans (Papadi)</item>
+        <item>Suvarna Gadde</item>
+        <item>Sweet Lime</item>
+        <item>Sweet Potato</item>
+        <item>Sweet Pumpkin</item>
+        <item>T.V. Cumbu</item>
+        <item>Tamarind Fruit</item>
+        <item>Tamarind Seed</item>
+        <item>Tapioca</item>
+        <item>Taramira</item>
+        <item>Tender Coconut</item>
+        <item>Thinai (Italian Millet)</item>
+        <item>Thondekai</item>
+        <item>Tinda</item>
+        <item>Tobacco</item>
+        <item>Turmeric (raw)</item>
+        <item>Varagu</item>
+        <item>Wheat Atta</item>
+        <item>White Peas</item>
+        <item>White Pumpkin</item>
+        <item>Wood</item>
+        <item>Wool</item>
+        <item>Yam</item>
+        <item>Yam (Ratalu)</item>
+        <item>Arbi</item>
+        <item>Baingan</item>
+        <item>Basmati</item>
+        <item>Bottle Guard</item>
+        <item>Chilly</item>
+        <item>Chilly(dry)</item>
+        <item>Cotton amri</item>
+        <item>Cotton Desi</item>
+        <item>Fruit/Veg.</item>
+        <item>Gawar</item>
+        <item>GOBI</item>
+        <item>Indian Colza(Sarson)</item>
+        <item>Jwar</item>
+        <item>Kapas</item>
+        <item>Kharbuja</item>
+        <item>Mattar</item>
+        <item>Moong</item>
+        <item>Moongi</item>
+        <item>Narma/Kapas</item>
+        <item>NIMBU</item>
+        <item>Palak</item>
+        <item>SANTRA</item>
+        <item>Tamater</item>
+        <item>Tarbuj</item>
+        <item>Toria</item>
+        <item>Cardamoms</item>
+        <item>Cocoa</item>
+        <item>Linseed</item>
+        <item>Litchi</item>
+        <item>Masur Dal</item>
+        <item>Niger Seed (Ramtil)</item>
+        <item>green banana</item>
+        <item>Rose(Loose)</item>
+        <item>Bran</item>
+        <item>Coffee</item>
+        <item>Duster Beans</item>
+        <item>Goat</item>
+        <item>Javi</item>
+        <item>Suva (Dill Seed)</item>
+        <item>Honge seed</item>
+        <item>Dry Grapes</item>
+        <item>Safflower</item>
+        <item>Antawala</item>
+        <item>Rat Tail Radish (Mogari)</item>
+        <item>Duck</item>
+        <item>Karbuja(Musk Melon)</item>
+        <item>Cow</item>
+        <item>Lint</item>
+        <item>She Buffalo</item>
+        <item>Mataki</item>
+        <item>Pepper ungarbled</item>
+        <item>Balekai</item>
+        <item>Pepper garbled</item>
+        <item>Lukad</item>
+        <item>Cloves</item>
+        <item>Jack Fruit</item>
+        <item>Marygold(Calcutta)</item>
+        <item>Ground Nut Oil</item>
+        <item>Nutmeg</item>
+        <item>Pine Apple</item>
+        <item>Sugarcane</item>
+        <item>Mace</item>
+        <item>He Buffalo</item>
+        <item>Seetapal</item>
+        <item>Broken Rice</item>
+        <item>Mahedi</item>
+        <item>Water Melon</item>
+        <item>Sheep</item>
+        <item>Tea</item>
+        <item>Season Leaves</item>
+        <item>Chrysanthemum(Loose)</item>
+        <item>Calf</item>
+        <item>Cock</item>
+        <item>Hen</item>
+        <item>She Goat</item>
+        <item>Jute Seed</item>
+        <item>Jasmine</item>
+        <item>Neem Seed</item>
+        <item>Ram</item>
+        <item>Sdsfsdf</item>
+        <item>flowers</item>
+        <item>coreender seed</item>
+        <item>aam</item>
+        <item>Cotten seed</item>
+        <item>yellow sticky traps</item>
+        <item>Rajka bij</item>
+        <item>chna</item>
+        <item>mustred</item>
+        <item>wbeat</item>
+        <item>peyaj</item>
+        <item>karela ka seed</item>
+        <item>mugfliya</item>
+        <item>matki</item>
+        <item>guvar</item>
+        <item>gvar</item>
+        <item>merigold flower</item>
+        <item>tamato</item>
+        <item>aadoo</item>
+        <item>aaloo bukhara</item>
+        <item>aamle</item>
+        <item>aanvla</item>
+        <item>adrak</item>
+        <item>ajwain</item>
+        <item>akhrot</item>
+        <item>aloo</item>
+        <item>alsi ka tel</item>
+        <item>amle</item>
+        <item>amrood</item>
+        <item>amrud</item>
+        <item>ananas</item>
+        <item>anar</item>
+        <item>anda</item>
+        <item>angoor</item>
+        <item>angur</item>
+        <item>anjir</item>
+        <item>anvla</item>
+        <item>anvle</item>
+        <item>aple</item>
+        <item>appl</item>
+        <item>aprcot</item>
+        <item>arandi</item>
+        <item>arhar</item>
+        <item>arhar dal</item>
+        <item>arhr</item>
+        <item>baajra</item>
+        <item>baasmati</item>
+        <item>bachda</item>
+        <item>badam</item>
+        <item>baigan</item>
+        <item>baigun</item>
+        <item>baingun</item>
+        <item>bajra</item>
+        <item>bakla</item>
+        <item>bakra</item>
+        <item>bangan</item>
+        <item>basmti</item>
+        <item>batakh</item>
+        <item>ber</item>
+        <item>beri</item>
+        <item>bhador</item>
+        <item>bhains</item>
+        <item>bhindi</item>
+        <item>bindi</item>
+        <item>brocoli</item>
+        <item>chai</item>
+        <item>chakandar</item>
+        <item>chakotra</item>
+        <item>chakundar</item>
+        <item>chana dal</item>
+        <item>chaulai</item>
+        <item>chaval</item>
+        <item>chaval bean</item>
+        <item>chikoo</item>
+        <item>chiku</item>
+        <item>chini</item>
+        <item>chokar</item>
+        <item>cotan</item>
+        <item>coten</item>
+        <item>cotn</item>
+        <item>coton</item>
+        <item>cotun</item>
+        <item>daalein</item>
+        <item>dalein</item>
+        <item>dalen</item>
+        <item>dalhan</item>
+        <item>dhan</item>
+        <item>dhania</item>
+        <item>dhanie</item>
+        <item>dhaniya</item>
+        <item>dhaniye</item>
+        <item>dhnia</item>
+        <item>dhnie</item>
+        <item>erbi</item>
+        <item>fali</item>
+        <item>falian</item>
+        <item>faliyaan</item>
+        <item>faliyan</item>
+        <item>fool gobhi</item>
+        <item>ful gobhi</item>
+        <item>gajar</item>
+        <item>ganne</item>
+        <item>gehun</item>
+        <item>gehun ka aata</item>
+        <item>gjar</item>
+        <item>gobhi</item>
+        <item>grape</item>
+        <item>gulab</item>
+        <item>haldi</item>
+        <item>hara adrak</item>
+        <item>hara pyaj</item>
+        <item>hari mirch</item>
+        <item>imli</item>
+        <item>jaifal</item>
+        <item>jau</item>
+        <item>jaun</item>
+        <item>jawaar</item>
+        <item>jeera</item>
+        <item>jimikand</item>
+        <item>jon</item>
+        <item>juar</item>
+        <item>jvar</item>
+        <item>kabuli chana</item>
+        <item>kabuli chane</item>
+        <item>kachha nariyal</item>
+        <item>kaddu</item>
+        <item>kaju</item>
+        <item>kala chana</item>
+        <item>kali mirch</item>
+        <item>kapa</item>
+        <item>karbuje</item>
+        <item>karela</item>
+        <item>karele</item>
+        <item>kathal</item>
+        <item>kela</item>
+        <item>kelaa</item>
+        <item>kele</item>
+        <item>kelo</item>
+        <item>kelon</item>
+        <item>kesar</item>
+        <item>khajoor</item>
+        <item>khamani</item>
+        <item>kharboja</item>
+        <item>kharbooja</item>
+        <item>kharbuje</item>
+        <item>kheera</item>
+        <item>khera</item>
+        <item>khira</item>
+        <item>khiraa</item>
+        <item>khmani</item>
+        <item>khubani</item>
+        <item>kinno</item>
+        <item>kinnoo</item>
+        <item>kinoo</item>
+        <item>kinow</item>
+        <item>kishmish</item>
+        <item>kiwi</item>
+        <item>kotan</item>
+        <item>kotn</item>
+        <item>kotun</item>
+        <item>krela</item>
+        <item>krele</item>
+        <item>kusm ka tel</item>
+        <item>kusum</item>
+        <item>lahsun</item>
+        <item>lakdi</item>
+        <item>lal mirch</item>
+        <item>lal pyaj</item>
+        <item>lehsn</item>
+        <item>lehsun</item>
+        <item>lhasun</item>
+        <item>lobia</item>
+        <item>lobiya</item>
+        <item>loki</item>
+        <item>long</item>
+        <item>lubia</item>
+        <item>machli</item>
+        <item>makka</item>
+        <item>mangoes</item>
+        <item>mangos</item>
+        <item>marigold</item>
+        <item>marygold</item>
+        <item>masale</item>
+        <item>mashroom</item>
+        <item>mashrum</item>
+        <item>masur</item>
+        <item>matar</item>
+        <item>mausmi</item>
+        <item>merigold</item>
+        <item>methi ke patte</item>
+        <item>mirch</item>
+        <item>mooli</item>
+        <item>moosli</item>
+        <item>mosammi</item>
+        <item>mosli</item>
+        <item>mosmi</item>
+        <item>moth dal</item>
+        <item>mshroom</item>
+        <item>mshrum</item>
+        <item>mungfali</item>
+        <item>mungi</item>
+        <item>murga</item>
+        <item>murgi</item>
+        <item>musli</item>
+        <item>mutr</item>
+        <item>nariyal</item>
+        <item>nariyal beej</item>
+        <item>nariyal ka tel</item>
+        <item>nashpati</item>
+        <item>neebu</item>
+        <item>neembu</item>
+        <item>nibu</item>
+        <item>nimbo</item>
+        <item>nimboo.nimbu</item>
+        <item>okra</item>
+        <item>orad</item>
+        <item>pan ke patte</item>
+        <item>papita</item>
+        <item>pata gobhi</item>
+        <item>patta gobhi</item>
+        <item>pea</item>
+        <item>petha</item>
+        <item>pethe</item>
+        <item>phaliya</item>
+        <item>phaliyaan</item>
+        <item>pindi</item>
+        <item>pista</item>
+        <item>potatoes</item>
+        <item>potatos</item>
+        <item>pudina</item>
+        <item>pudine ki patti</item>
+        <item>pyaj</item>
+        <item>raajma</item>
+        <item>rajma</item>
+        <item>rasbhari</item>
+        <item>ratalu</item>
+        <item>saand</item>
+        <item>safed fali</item>
+        <item>safed kaddu</item>
+        <item>safed matar</item>
+        <item>santara</item>
+        <item>saron</item>
+        <item>sarso</item>
+        <item>sarson</item>
+        <item>saunf</item>
+        <item>seb</item>
+        <item>shakarkand</item>
+        <item>shaljam</item>
+        <item>shimla mirch</item>
+        <item>simla mirch</item>
+        <item>suar</item>
+        <item>sukha chara</item>
+        <item>sukhi mirch</item>
+        <item>supari</item>
+        <item>surajmukhi</item>
+        <item>tamatar</item>
+        <item>tambaku</item>
+        <item>tori</item>
+        <item>tur</item>
+        <item>turh</item>
+        <item>urad</item>
+        <item>urbi</item>
+        <item>urhar</item>
+        <item>urhr</item>
+        <item>अखरोट</item>
+        <item>अंगूर</item>
+        <item>अजवन</item>
+        <item>अजवाइन बीज तेल</item>
+        <item>अंजीर</item>
+        <item>अंडा</item>
+        <item>अंतवाला</item>
+        <item>अदरक</item>
+        <item>अदरक सूखी</item>
+        <item>अनानास</item>
+        <item>अनार</item>
+        <item>अमफोफलुस</item>
+        <item>अमरूद</item>
+        <item>अमरनथ</item>
+        <item>अरंडी के बीज</item>
+        <item>अरबी</item>
+        <item>अरहर (अरहर / लाल ग्राम)</item>
+        <item>अरहर (अरहर)</item>
+        <item>अल्संदिकै</item>
+        <item>अलसन्दे  ग्राम</item>
+        <item>अलसी का तेल</item>
+        <item>अवारे दाल</item>
+        <item>आजुकि बीन्स</item>
+        <item>आड़ू</item>
+        <item>आम</item>
+        <item>आमला</item>
+        <item>आलू</item>
+        <item>आंवला पाउडर</item>
+        <item>इमली के बीज</item>
+        <item>इमली फलों</item>
+        <item>इसबगोल  (पसयललिुम )</item>
+        <item>ऊन</item>
+        <item>एस + A119oyabean तेल</item>
+        <item>एस्परैगस</item>
+        <item>ओरनगर</item>
+        <item>कुकुम्बर (खीरा )</item>
+        <item>कच्चा नारियल</item>
+        <item>कटहल</item>
+        <item>कद्ू</item>
+        <item>कनतलौपे /येलो  मेलों</item>
+        <item>कनूल खोल</item>
+        <item>कपास</item>
+        <item>कपास आमरी</item>
+        <item>कपास देसी</item>
+        <item>कर्माणि</item>
+        <item>करेला</item>
+        <item>करी पत्ते</item>
+        <item>केले - ग्रीन</item>
+        <item>कलकसिा</item>
+        <item>कुल्थी (हॉर्सेज  ग्राम )</item>
+        <item>क्लस्टर बीन्स</item>
+        <item>केला</item>
+        <item>कुसुम</item>
+        <item>कुसुम तेल</item>
+        <item>केसर</item>
+        <item>काजू</item>
+        <item>काबुली चने</item>
+        <item>काबुली चना (छोला-सफेद)</item>
+        <item>कारबुजे</item>
+        <item>कारबुजे (मुश्क  मेलों )</item>
+        <item>काले आंखवाले मटर (Lobia)</item>
+        <item>काले ग्राम (उड़द सेम)</item>
+        <item>काला चना (उड़द)</item>
+        <item>काली मिर्च</item>
+        <item>काली मिर्च ungarbled</item>
+        <item>काली मिर्च विकृत</item>
+        <item>किन्नू</item>
+        <item>किवांच</item>
+        <item>किशमिश</item>
+        <item>कीट बीन</item>
+        <item>कीवी फल</item>
+        <item>कॉटन</item>
+        <item>कॉफ़ी</item>
+        <item>खजूर</item>
+        <item>खुबानी</item>
+        <item>खरबूजा</item>
+        <item>खरबूजा / Kharbuja</item>
+        <item>खीरा</item>
+        <item>गुड़ (गुड़)</item>
+        <item>गदा</item>
+        <item>गन्ना</item>
+        <item>गरविोला</item>
+        <item>ग्राउंड नट बीज</item>
+        <item>ग्राम कच्ची (छोलीआ)</item>
+        <item>ग्रीन Avare (डब्ल्यू)</item>
+        <item>ग्रीन बेरी / Zizyphus</item>
+        <item>गुलदाउदी (ढीला)</item>
+        <item>गुलाब (ढीला)</item>
+        <item>गुलाबी अमरूद फल</item>
+        <item>गवर</item>
+        <item>ग्वार</item>
+        <item>ग्वार सीड (क्लस्टर सेम के बीज)</item>
+        <item>गेहूँ</item>
+        <item>गेहूं का आटा</item>
+        <item>गाजर</item>
+        <item>गाय</item>
+        <item>गार्डन मटर</item>
+        <item>गिंगेललय  (सेसमुम , सेसमे , टिल )</item>
+        <item>गिरी</item>
+        <item>गोबी</item>
+        <item>घी</item>
+        <item>चुकंदर</item>
+        <item>चकोतरा</item>
+        <item>चेन्नांगिदल</item>
+        <item>चूना</item>
+        <item>चेरी</item>
+        <item>चूहे की पूंछ मूली (Mogari)</item>
+        <item>चाउ चाउ</item>
+        <item>चाय</item>
+        <item>चारा</item>
+        <item>चावल</item>
+        <item>चावल की भूसी</item>
+        <item>चावल बीन</item>
+        <item>चिकू (सपोटा)</item>
+        <item>चिरोंजी /चारौली</item>
+        <item>चीकू</item>
+        <item>चीनी</item>
+        <item>चोकर</item>
+        <item>चौलाई</item>
+        <item>छप्परद  ावरे</item>
+        <item>जैक फल</item>
+        <item>जैक बीन</item>
+        <item>जुच्छिनि</item>
+        <item>जूट</item>
+        <item>जूट सीड</item>
+        <item>जैतून का तेल</item>
+        <item>ज्वार</item>
+        <item>ज्वार (चारा)</item>
+        <item>जवि</item>
+        <item>जैस्मीन</item>
+        <item>जामुन</item>
+        <item>जायफल</item>
+        <item>जिमीकंद</item>
+        <item>जीरा तेल</item>
+        <item>जीरा बीज (जीरा)</item>
+        <item>जौ</item>
+        <item>जौ (Jau)</item>
+        <item>टूटा चावल</item>
+        <item>टैपिओका</item>
+        <item>टमाटर</item>
+        <item>टिंडा</item>
+        <item>ठंडा</item>
+        <item>ृडगेगार्ड (टोरी )</item>
+        <item>डस्टर बीन्स</item>
+        <item>डालडा</item>
+        <item>ढोल का छड़ी</item>
+        <item>तपरय बीन</item>
+        <item>तंबाकू</item>
+        <item>तरबूज</item>
+        <item>त्रितिकले</item>
+        <item>ताड़ का तेल</item>
+        <item>तारामीरा</item>
+        <item>तिल के तेल</item>
+        <item>तिल का तेल</item>
+        <item>तोरिया</item>
+        <item>थिंै  (इतालियन  मिलेट )</item>
+        <item>थोंडेकै</item>
+        <item>दूरदर्शन Cumbu</item>
+        <item>दलहन</item>
+        <item>धनिये के पत्ते)</item>
+        <item>धनिये के बीज</item>
+        <item>धनिया / Cilantro</item>
+        <item>धान (धन)</item>
+        <item>नरमा / कपास</item>
+        <item>नवाने</item>
+        <item>नेवी बीन</item>
+        <item>नारंगी</item>
+        <item>नारियल</item>
+        <item>नारियल का तेल</item>
+        <item>नारियल बीज</item>
+        <item>नाशपाती</item>
+        <item>निम्बू</item>
+        <item>नीम  सीड</item>
+        <item>पंखों वाला बीन</item>
+        <item>पेजों  पी  (अरहर  फली )</item>
+        <item>पत्तेदार सब्जियों</item>
+        <item>पत्ता गोभी</item>
+        <item>पुदीने की पत्तियां</item>
+        <item>पुदीना</item>
+        <item>पपीता</item>
+        <item>पपीता (कच्चा)</item>
+        <item>प्याज</item>
+        <item>प्याज ग्रीन</item>
+        <item>प्राकृतिक हनी</item>
+        <item>पलक</item>
+        <item>प्लम</item>
+        <item>पहाड़ी बादाम तेल</item>
+        <item>पाइन नट्स</item>
+        <item>पानी तरबूज के बीज</item>
+        <item>पालक</item>
+        <item>पिजन  पी</item>
+        <item>पिंटो बीन</item>
+        <item>पिसता</item>
+        <item>पीटा चावल</item>
+        <item>फ्रेंच बीन्स</item>
+        <item>फ्रेंच बीन्स (फ्रांस बीन)</item>
+        <item>फल / शाकाहारी।</item>
+        <item>फूल गोभी</item>
+        <item>फलियां</item>
+        <item>फील्ड मटर</item>
+        <item>फोनिो</item>
+        <item>बकरा</item>
+        <item>बैंगन</item>
+        <item>बैंगन / बैंगन</item>
+        <item>बंगाल ग्राम (ग्राम)</item>
+        <item>बंच बीन्स</item>
+        <item>बछड़ा</item>
+        <item>बत्तख</item>
+        <item>बताया लौकी (Parval)</item>
+        <item>बेताल  लीव्स</item>
+        <item>बनें</item>
+        <item>बेर</item>
+        <item>बेर (Zizyphus)</item>
+        <item>ब्रोकोली</item>
+        <item>बैल</item>
+        <item>ब्लैककररंत</item>
+        <item>ब्लूबेरी</item>
+        <item>बेल्ल  पीपर</item>
+        <item>बाकला</item>
+        <item>बाजरा (पर्ल बाजरा)</item>
+        <item>बादाम</item>
+        <item>बाम्बारा बीन / बाम्बारा मूंगफली</item>
+        <item>बासमती</item>
+        <item>बिग ग्राम</item>
+        <item>बिनौला</item>
+        <item>बिनौला तेल</item>
+        <item>बोतल गार्ड</item>
+        <item>भेड़</item>
+        <item>भदौर (सहना )</item>
+        <item>भारतीय कोल्ज़ (सरसों)</item>
+        <item>भारतीय बीन्स (सीवन)</item>
+        <item>भिन्डी</item>
+        <item>भिन्डी (भिंडी)</item>
+        <item>मक्के का तेल</item>
+        <item>मक्का</item>
+        <item>मूंग</item>
+        <item>मूंग  बीन</item>
+        <item>मूंगफली</item>
+        <item>मूंगफली (विभाजन)</item>
+        <item>मूँगफली का तेल</item>
+        <item>मूंगफली का तेल</item>
+        <item>मूंगफली की फलियों (रॉ)</item>
+        <item>मूंगी</item>
+        <item>मैंगो (रॉ-पका)</item>
+        <item>मछली</item>
+        <item>मटकी</item>
+        <item>मटर</item>
+        <item>मटर (सूखा)</item>
+        <item>मटर कॉड</item>
+        <item>मटर गीले</item>
+        <item>मेडा अट्टा</item>
+        <item>मेथी</item>
+        <item>मेथी (पत्ते)</item>
+        <item>मेथी के पत्ते</item>
+        <item>मेथी के बीज</item>
+        <item>मुर्गा</item>
+        <item>मुर्गी</item>
+        <item>मैरीगोल्ड (कलकत्ता )</item>
+        <item>मूली</item>
+        <item>मशरूम</item>
+        <item>मशरूम्स</item>
+        <item>मस्टर्ड  आयल</item>
+        <item>मसूर (मसूर)</item>
+        <item>मसूर की दाल</item>
+        <item>मसाले</item>
+        <item>महुआ</item>
+        <item>महुआ बीज</item>
+        <item>महेदी</item>
+        <item>मिर्च</item>
+        <item>मिर्च (सूखा)</item>
+        <item>मिर्च लाल</item>
+        <item>मिर्च शिमला मिर्च</item>
+        <item>मिलेट</item>
+        <item>मीठा कद्दू</item>
+        <item>मीठा नींबू</item>
+        <item>मोाथ दाल</item>
+        <item>मौसम्बी</item>
+        <item>मौसम्बी (स्वीट  लाइम )</item>
+        <item>रेड  चिल्लीज</item>
+        <item>रेंड़ी का तेल</item>
+        <item>रतालू</item>
+        <item>रतालू (Ratalu)</item>
+        <item>रतालू / मीठे आलू</item>
+        <item>रद्दिश</item>
+        <item>रेपसीड  आयल</item>
+        <item>रबर</item>
+        <item>रसभरी</item>
+        <item>रहिला</item>
+        <item>राइस ब्रान ऑइल</item>
+        <item>राई</item>
+        <item>राख लौकी</item>
+        <item>रागी (रागी)</item>
+        <item>राजगीर</item>
+        <item>राज़में</item>
+        <item>राम</item>
+        <item>राया</item>
+        <item>रिज  गॉर्ड</item>
+        <item>लुकड़</item>
+        <item>लकड़ी</item>
+        <item>लुपिंस</item>
+        <item>लहसुन</item>
+        <item>लाइमा बीन्स</item>
+        <item>लाक</item>
+        <item>लांग तरबूज (ककड़ी)</item>
+        <item>लाल ग्राम</item>
+        <item>लाल प्याज</item>
+        <item>लाल बेरी</item>
+        <item>लाल रंग धावक बीन</item>
+        <item>लिंट</item>
+        <item>लिटिल लौकी (Kundru)</item>
+        <item>लिली</item>
+        <item>लीची</item>
+        <item>लोटस छड़ें</item>
+        <item>लोबिया (Lobia)</item>
+        <item>लोबिया (शाकाहारी)</item>
+        <item>लौकी</item>
+        <item>लौकी दौर</item>
+        <item>लौंग</item>
+        <item>वेच</item>
+        <item>वनस्पति घी</item>
+        <item>वनस्पति तेल</item>
+        <item>वरगु</item>
+        <item>वह Buffalo</item>
+        <item>वह भैंस</item>
+        <item>शकरकंद</item>
+        <item>शरीफा</item>
+        <item>शलजम</item>
+        <item>शिमला मिर्च</item>
+        <item>शी  गोट</item>
+        <item>सुअर</item>
+        <item>स्क्वाश (चप्पल Kadoo)</item>
+        <item>सूखे अंजीर</item>
+        <item>सूखा चारा</item>
+        <item>सूखी अंगूर</item>
+        <item>सूखी मिर्च</item>
+        <item>स्ट्रॉबेरी</item>
+        <item>सत्र</item>
+        <item>सनकेगार्ड</item>
+        <item>स्पंज लौकी</item>
+        <item>सुपारी</item>
+        <item>सुपारी (betelnut / सुपारी)</item>
+        <item>सपोटा</item>
+        <item>सफेद कद्दू</item>
+        <item>सफेद फली</item>
+        <item>सफेद मटर</item>
+        <item>सेब</item>
+        <item>सेम/ सेवी</item>
+        <item>सूरजमुखी</item>
+        <item>सूरजमुखी के बीज</item>
+        <item>सूरजमुखी का तेल</item>
+        <item>सूरत बीन्स (Papadi)</item>
+        <item>सरसों</item>
+        <item>सुवर्णा गडदे</item>
+        <item>सुवा (डिल बीज)</item>
+        <item>सेसमुम (सेसमे ,गिंगेललय ,टिल )</item>
+        <item>सांड</item>
+        <item>सापोडिला</item>
+        <item>सीजन पत्तियां</item>
+        <item>सीतापल</item>
+        <item>सीमेबदनेकै</item>
+        <item>सोअपनुत</item>
+        <item>सोजी</item>
+        <item>सोयाबीन</item>
+        <item>सोांफ</item>
+        <item>हफवन</item>
+        <item>हरे केले</item>
+        <item>हरा अदरक</item>
+        <item>हरा प्याज</item>
+        <item>हरी ग्राम (मूंग)</item>
+        <item>हरी चना दाल</item>
+        <item>हरी मटर</item>
+        <item>हरी मिर्च</item>
+        <item>हल्दी</item>
+        <item>हल्दी (रॉ)</item>
+        <item>हाइब्रिड Cumbu</item>
+        <item>हाथी रतालू (Suran)</item>
+        <item>होंगे  सीड</item>
+    </string-array>
+</resources>

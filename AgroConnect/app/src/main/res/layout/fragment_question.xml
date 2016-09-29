@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:gravity="center"
+            android:textStyle="bold"
+            android:textColor="@color/color_black"
+            android:text="@string/add_new_question"/>
+        <View
+            android:layout_width="0dp"
+            android:layout_height="1dp"
+            android:layout_weight="1"/>
+        <Button
+            android:id="@+id/submitBtn"
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+            android:background="@android:color/holo_blue_dark"
+            android:text="@string/submit"
+            android:textAllCaps="false"
+            android:textColor="@color/color_white"
+            android:textSize="20sp"/>
+    </LinearLayout>
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <EditText
+                android:id="@+id/questionET"
+                android:layout_marginTop="20dp"
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:background="@drawable/edit_text_selector"
+                android:gravity="left|top"
+                android:hint="@string/post_question_here"
+                android:padding="10dp"/>
+
+            <LinearLayout
+                android:id="@+id/imageLinear"
+                android:layout_marginTop="10dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_gravity="center_horizontal"
+                android:padding="10dp">
+
+                <ImageView
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:background="@mipmap/camera_icon"
+                    android:layout_gravity="center"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_marginTop="@dimen/d10"
+                    android:layout_height="match_parent"
+                    android:textSize="16sp"
+                    android:layout_gravity="center_horizontal"
+                    android:text="@string/add_image"/>
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_marginTop="@dimen/d12"
+                    android:layout_height="match_parent"
+                    android:textSize="14sp"
+                    android:gravity="center"
+                    android:text="@string/add_note"/>
+
+            </LinearLayout>
+
+            <HorizontalScrollView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:scrollbars="none">
+
+                <LinearLayout
+                    android:id="@+id/img_container"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/color_light_gray"
+                    android:orientation="horizontal"/>
+            </HorizontalScrollView>
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

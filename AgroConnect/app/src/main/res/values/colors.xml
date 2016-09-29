@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2d7e26</color>
+    <color name="colorPrimaryDark">#296723</color>
+    <color name="colorAccent">#2d7e26</color>
+    <color name="transparent_gray">#90aaaaaa</color>
+    <color name="gray_background">#ccc</color>
+    <color name="dialog_background">#dd111111</color>
+    <color name="spots_dialog_color">@color/orange_500</color>
+    <color name="color_white">#ffffff</color>
+    <color name="color_black">#000000</color>
+    <color name="trans_black">#4D000000</color>
+    <color name="color_light_gray">#E4E4E4</color>
+    <color name="color_gray">#C0C0C0</color>
+    <color name="color_simi_black">#B2000000</color>
+</resources>

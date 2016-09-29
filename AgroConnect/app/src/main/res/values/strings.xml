@@ -1,0 +1,222 @@
+<resources>
+    <string name="app_name">AgroConnect</string>
+    <string name="action_invite">Invite Friends</string>
+    <string name="action_rate">Rate Us</string>
+    <string name="action_contact">Contact Us</string>
+    <string name="action_language">Choose Language</string>
+    <string name="action_my_profile">My Profile</string>
+    <string name="search">Search</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="regFragOneS1">Enter Your Phone Number</string>
+    <string name="register">Register</string>
+    <string name="regFragTwoS1">Joining AgroConnect</string>
+    <string name="regFragTwoS2">You will receive One Time Password shortly. Auto detecting...</string>
+    <string name="cancel">Cancel</string>
+    <string name="set">Set</string>
+    <string name="whatsapp_string">To know more download AgroConnect by clicking here:
+    \n https://play.google.com/store/apps/details?id=agroconnectapp.agroconnect.in.agroconnect</string>
+    <string name="choose_type">Choose Type</string>
+    <string name="error_player">Error in playing video</string>
+    <string name="news_feed">News Feed</string>
+    <string name="all">All</string>
+    <string name="my_crops">My Crops</string>
+    <string name="most_viewed">Most Viewed</string>
+    <string name="subject_title">Write Subject/Title here</string>
+    <string name="write_message">Write your message here</string>
+    <string name="type_here_to_search">Type here to search</string>
+    <string name="post">Post</string>
+    <string name="public_label">Public</string>
+    <string name="submit">Submit</string>
+    <string name="post_question_here">Post Question Here</string>
+    <string name="loading">Loading</string>
+    <string name="no_record_found">No record found</string>
+    <string name="my_post">my posts</string>
+    <string name="crop_protection">Crop \n Protection</string>
+    <string name="select_location">Select Location</string>
+    <string name="notification">Notification</string>
+    <string name="label">If you know the answer to this question, then please help your fellow farmer by clicking on the button given below and giving your suggestion.</string>
+    <string name="expert">expert</string>
+    <string name="feedback_label">Help us in improving your experience on AgroConnect. If you want to see anything new then tell us or if you have any suggestions regarding Mandi Prices, Crop Protection, Advisory Section or NewsFeed let us know.</string>
+    <string name="write_feedback_here">Write feedback here</string>
+    <string name="app_share">Share app on whats app</string>
+    <string name="later">Later</string>
+    <string name="please_share">Please share</string>
+    <string name="update">Update</string>
+    <string name="update_message">Please update to avail latest features</string>
+    <string name="thank_you">Thank You</string>
+    <string name="say_thank_you">Farmer is saying thank you</string>
+    <string name="general_post">General post</string>
+    <string name="general_post_label">What do you want to ask or tell write in detail here.</string>
+    <string name="crop_related_question">Crop related question</string>
+    <string name="crop_name">Crop name</string>
+    <string name="seed_variety">Seed Variety</string>
+    <string name="how_old_is_crop">How old is crop?</string>
+    <string name="area_of_filed">Area of your field</string>
+    <string name="any_pesticide_fertiliser">Did you use any pesticide/ fertiliser or anything?</string>
+    <string name="crop_related_label">Tell us in detail about your problem.</string>
+    <string name="if_you_want_to_ask">To comment on the above topic please write by clicking on the below button</string>
+
+
+
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_listing_detail">Inventory Detail</string>
+    <string name="title_activity_profile">User Profile</string>
+    <string name="try_again">Try Again</string>
+    <string name="error_msg_internet">There seems to be a problem connecting to internet. Please try again.</string>
+    <string name="error_msg_unknown">Some error occured. Please try again.</string>
+    <string name="shortlist">Shortlist</string>
+    <string name="share">Share</string>
+    <string name="title_activity_edit_profile">Create Profile</string>
+    <string name="profile_img_caption">Click below icon to upload profile image</string>
+    <string name="hint_name">Your Full Name</string>
+    <string name="hint_mandi">Your Mandi</string>
+    <string name="hint_rate">Rate</string>
+    <string name="quantity">Quantity</string>
+    <string name="hint_city">Your City</string>
+    <string name="location">Location</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="user_desciption">Tell us about yourself</string>
+    <string name="hint_description">Commodity Description e.g. quality</string>
+    <string name="hint_commodity">Commodity you trade</string>
+    <string name="button_save">Save</string>
+    <string name="button_camera">Camera</string>
+    <string name="button_buy">I want to BUY</string>
+    <string name="button_sell">I want to SELL</string>
+    <string name="button_gallery">Gallery</string>
+    <string name="img_picker_caption">Upload your picture using</string>
+    <string name="title_activity_add_inventory">Add Inventory</string>
+    <string name="title_activity_my_inventory">My Inventory</string>
+    <string name="title_activity_verification">Number Verification</string>
+    <string name="unsupported_operation">Operation not supported by device.</string>
+    <string name="enter_number">Enter your mobile number for verification</string>
+    <string name="specify_requirement">Specify your requirement</string>
+    <string name="btn_submit">SUBMIT</string>
+    <string name="inventory_detail">Inventory Detail</string>
+    <string name="added_to_shortlist">Added to Shortlist</string>
+    <string name="removed_from_shortlist">Removed from Shortlist</string>
+    <string name="already_shortlisted">Already Shortlisted</string>
+    <string name="info_text">"Didn\'t find what you are looking for ? Not to worry. Post your requirement now."</string>
+    <string name="add_request">Click here to add Request</string>
+    <string name="select_commodity">Select Commodity</string>
+    <string name="select_mandi">Select Mandi</string>
+    <string name="select_date">Select Date</string>
+    <string name="commodity">Commodity</string>
+    <string name="mandi">Mandi</string>
+    <string name="city">City</string>
+    <string name="date">Date</string>
+    <string name="data_unavailable">Prices will get updated shortly, please check after some time. Till then you can check yesterday\'s prices.</string>
+    <string name="remove">Remove</string>
+    <string name="buyer">Buyer</string>
+    <string name="seller">Seller</string>
+    <string name="description">Description</string>
+    <string name="profession">Profession</string>
+    <string name="price">Price</string>
+    <string name="details">Details</string>
+    <string name="listings">Listings</string>
+    <string name="feed">Feed</string>
+    <string name="profile">Profile</string>
+    <string name="english">English</string>
+    <string name="hindi">Hindi</string>
+    <string name="not_available">Not available</string>
+    <string name="commodity_name_example">Commodity Name e.g. Orange, Guava</string>
+    <string name="commodity_required">Commodity cannot be empty</string>
+    <string name="quantity_required">Quantity cannot be empty</string>
+    <string name="inventory_add_success">Inventory Added Sccessfully</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="your_profession">Your Profession</string>
+    <string name="name_required">Name can not be empty</string>
+    <string name="city_required">City can not be empty</string>
+    <string name="profession_required">Please select your profession</string>
+    <string name="profile_saved">Profile Saved</string>
+    <string name="available_to_sell">Available to sell</string>
+    <string name="available_to_buy">Available to buy</string>
+    <string name="inventory_by">Inventory By</string>
+    <string name="min_price">Min \u20B9</string>
+    <string name="max_price">Max \u20B9</string>
+    <string name="modal_price">Modal \u20B9</string>
+    <string name="number_verified">Number Verified</string>
+    <string name="one_time_password">One Time Password</string>
+    <string name="verifying_number">Please wait while we verify your mobile number</string>
+    <string name="otp_required">OTP cannot be empty</string>
+    <string name="enter_valid_number">Please enter 10 digit valid mobile number</string>
+    <string name="mandi_prices_note">Note: All prices are in Rs/Quintal</string>
+    <string name="question">Question</string>
+    <string name="solution">Solution</string>
+    <string name="answer_question">Answer this question</string>
+    <string name="add_new_question">Add new Question</string>
+    <string name="add_new_answer">Add new Answer</string>
+    <string name="title">Title</string>
+    <string name="title_required">Title cannot be empty</string>
+    <string name="description_required">Description cannot be empty</string>
+    <string name="solution_required">Solution cannot be empty</string>
+    <string name="post_successful">Post successful</string>
+    <string name="view_all_posts">View all my Posts</string>
+    <string name="crop">Crop</string>
+    <string name="problem_diagnosed_by_advisor">Problem Diagnosis</string>
+    <string name="product_to_be_applied">Product To Be Applied</string>
+    <string name="dosage">Dosage</string>
+    <string name="application_time">Application Time</string>
+    <string name="additional_advice">Additional Advice</string>
+    <string name="hint_problem_diagnosed">Problem Diagnosed</string>
+    <string name="reenter_number">Click here to re-enter mobile number</string>
+    <string name="enter_otp">Enter OTP sent to your mobile number</string>
+    <string name="share_text">Hey! Get AgroConnect app for your buying/selling requirements, latest Mandi prices and much more. Join now the biggest Agriculture Network to grow your Business.  </string>
+    <string name="add_image">Add Photo of Problem/Disease</string>
+
+    <string name="organization">Organization</string>
+    <string name="department">Department</string>
+    <string name="email">Email</string>
+    <string name="organization_required">Organization cannot be empty</string>
+    <string name="department_required">Department cannot be empty</string>
+    <string name="email_required">Email cannot be empty</string>
+
+    <string name="buy_sell_feed">Buy/Sell feed</string>
+    <string name="mandi_prices">Mandi prices</string>
+    <string name="discuss">Discuss</string>
+    <string name="input_suppliers">Input suppliers\n(Coming Soon)</string>
+    <string name="no_network_connection">No Network Connection</string>
+
+    <string name="crop_protection_title">Crop Protection</string>
+
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="write">Write</string>
+    <string name="add_note">Note - Please add photo of the infected crop/plant. Chances of getting a good answer increase significantly.</string>
+
+    <string name="rs">\u20A8</string>
+
+    <string-array name="agent_types">
+        <item>other</item>
+        <item>Farmer</item>
+        <item>Advisor</item>
+        <item>Field Agent</item>
+        <item>Commission Agent</item>
+        <item>Wholesaler</item>
+        <item>Retailer</item>
+        <item>Exporter</item>
+        <item>Arthiya</item>
+        <item>Beejak</item>
+        <item>Other</item>
+        <item>Dealer(Pesticide,Fertiliser,Seed,Machinery)</item>
+    </string-array>
+
+    <string-array name="quantity_units_array">
+        <item>Kg</item>
+        <item>Ton</item>
+        <item>Quintal</item>
+        <item>Packets</item>
+        <item>Pieces</item>
+        <item>Gram</item>
+    </string-array>
+    <string-array name="rate_units_array">
+        <item>per Kg</item>
+        <item>per Ton</item>
+        <item>per Quintal</item>
+        <item>per Packet</item>
+        <item>per Piece</item>
+        <item>per Gram</item>
+    </string-array>
+
+</resources>

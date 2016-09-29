@@ -1,0 +1,100 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">11dp</dimen>
+    <dimen name="activity_vertical_margin">11dp</dimen>
+    <dimen name="sliding_menu_right_offset">33dp</dimen>
+    <dimen name="d36_like_btn">23dp</dimen>
+    <dimen name="d24_profile">16dp</dimen>
+    <dimen name="d16_profile">10dp</dimen>
+    <dimen name="d8_profile">5dp</dimen>
+    <dimen name="d_tagBorder">1dp</dimen>
+    <dimen name="d_tagheadBorder">2dp</dimen>
+    <dimen name="product_white_padding">16dp</dimen>
+    <dimen name="product_card_margin">4dp</dimen>
+    <dimen name="product_card_padding">12dp</dimen>
+    <dimen name="product_above_padding">24dp</dimen>
+    <dimen name="product_below_padding">8dp</dimen>
+
+    <!-- for layout dimens -->
+    <dimen name="d1">1dp</dimen>
+    <dimen name="d2">1dp</dimen>
+    <dimen name="d3">2dp</dimen>
+    <dimen name="d4">3dp</dimen>
+    <dimen name="d5">3dp</dimen>
+    <dimen name="d6">4dp</dimen>
+    <dimen name="d7">5dp</dimen>
+    <dimen name="d8">5dp</dimen>
+    <dimen name="d9">6dp</dimen>
+    <dimen name="d10">7dp</dimen>
+    <dimen name="d12">8dp</dimen>
+    <dimen name="d14">9dp</dimen>
+    <dimen name="d16">10dp</dimen>
+    <dimen name="d16_prod">14dp</dimen>
+    <dimen name="d18">11dp</dimen>
+    <dimen name="d20">13dp</dimen>
+    <dimen name="d24">16dp</dimen>
+    <dimen name="d25">16dp</dimen>
+    <dimen name="d28">17dp</dimen>
+    <dimen name="d30">20dp</dimen>
+    <dimen name="d32">21dp</dimen>
+    <dimen name="d34">22dp</dimen>
+    <dimen name="d36">23dp</dimen>
+    <dimen name="d36_prod">23dp</dimen>
+    <dimen name="d40">26dp</dimen>
+    <dimen name="d44">28dp</dimen>
+    <dimen name="d48">31dp</dimen>
+    <dimen name="d50">33dp</dimen>
+    <dimen name="d56">36dp</dimen>
+    <dimen name="d60">39dp</dimen>
+    <dimen name="d68">44dp</dimen>
+    <dimen name="d70">46dp</dimen>
+    <dimen name="d80">52dp</dimen>
+    <dimen name="d100">65dp</dimen>
+    <dimen name="d110">72dp</dimen>
+    <dimen name="d110_prod">72dp</dimen>
+    <dimen name="d160">104dp</dimen>
+    <dimen name="d120">78dp</dimen>
+    <dimen name="d126">82dp</dimen>
+    <dimen name="d130">85dp</dimen>
+    <dimen name="d240">156dp</dimen>
+    <dimen name="d256">166dp</dimen>
+    <dimen name="d290">188dp</dimen>
+    <dimen name="d340">222dp</dimen>
+    <dimen name="d400">260dp</dimen>
+    <dimen name="tag_cloud_dim">22dp</dimen>
+    <dimen name="prod_vip_padding_left">7dp</dimen>
+    <dimen name="prod_vip_padding_right">7dp</dimen>
+
+    <!-- for font size -->
+    <dimen name="f1">1sp</dimen>
+    <dimen name="f2">2sp</dimen>
+    <dimen name="f3">2sp</dimen>
+    <dimen name="f4">3sp</dimen>
+    <dimen name="f5">4sp</dimen>
+    <dimen name="f6">5sp</dimen>
+    <dimen name="f7">5sp</dimen>
+    <dimen name="f8">6sp</dimen>
+    <dimen name="f9">7sp</dimen>
+    <dimen name="f10">8sp</dimen>
+    <dimen name="f12">9sp</dimen>
+    <dimen name="f14">11sp</dimen>
+    <dimen name="f16">12sp</dimen>
+    <dimen name="f18">14sp</dimen>
+    <dimen name="f20">15sp</dimen>
+    <dimen name="f22">17sp</dimen>
+    <dimen name="f24">18sp</dimen>
+    <dimen name="f26">20sp</dimen>
+    <dimen name="f28">21sp</dimen>
+    <dimen name="f30">23sp</dimen>
+    <dimen name="f32">24sp</dimen>
+    <dimen name="side_menu">14sp</dimen>
+    <dimen name="tabs_height">31dp</dimen>
+    <dimen name="viewpager_header_height">234dp</dimen>
+    <dimen name="space_middle">16dp</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="header_height">194dp</dimen>
+    <dimen name="min_header_height">163dp</dimen>
+    <dimen name="header_logo_size">65dp</dimen> <!-- scale factor is 0.65 -->
+
+</resources>

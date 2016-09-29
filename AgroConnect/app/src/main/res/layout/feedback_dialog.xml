@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <TextView
+        android:layout_marginTop="5dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/feedback_label"
+        android:textSize="16sp"
+        android:gravity="center"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <EditText
+            android:layout_marginTop="20dp"
+            android:layout_marginBottom="10dp"
+            android:id="@+id/messageET"
+            android:layout_width="match_parent"
+            android:layout_height="130dp"
+            android:background="@drawable/edit_text_selector"
+            android:gravity="left|top"
+            android:hint="@string/write_feedback_here"
+            android:textSize="16sp"
+            android:padding="5dp"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/cancelBtn"
+            android:layout_width="0dp"
+            android:layout_height="40dp"
+            android:layout_weight="1"
+            android:background="@android:color/holo_blue_dark"
+            android:text="@string/cancel"
+            android:textAllCaps="false"
+            android:textColor="@color/color_white"/>
+
+        <View
+            android:layout_width="1dp"
+            android:layout_height="match_parent"
+            android:background="@color/color_gray"/>
+
+        <Button
+            android:id="@+id/setBtn"
+            android:layout_width="0dp"
+            android:layout_height="40dp"
+            android:layout_weight="1"
+            android:background="@android:color/holo_blue_dark"
+            android:text="@string/submit"
+            android:textAllCaps="false"
+            android:textColor="@color/color_white"/>
+    </LinearLayout>
+
+</LinearLayout>

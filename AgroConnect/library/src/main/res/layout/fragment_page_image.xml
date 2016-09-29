@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    style="@style/WizardPageContainer"
+    android:orientation="vertical"
+    tools:ignore="UseCompoundDrawables" >
+
+    <TextView style="@style/WizardPageTitle"
+        tools:text="Title"/>
+
+    <FrameLayout
+        android:id="@+id/frameLayoutImageContainer"
+        style="@style/WizardPageImageContainer" >
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:src="@drawable/ic_person"
+            style="@style/WizardPageImage"
+            tools:ignore="ContentDescription" />
+    </FrameLayout>
+
+</LinearLayout>

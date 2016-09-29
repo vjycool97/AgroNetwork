@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="@color/colorPrimary"
+        android:elevation="5dp">
+        <agroconnectapp.agroconnect.in.agroconnect.utility.CustomAutoCompleteTextView
+            android:id="@+id/auto_complete_text_view"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:theme="@style/SearchBoxStyle"
+            android:textColor="@android:color/white"
+            android:singleLine="true" />
+
+        <ProgressBar
+            android:id="@+id/pb_loading_indicator"
+            style="?android:attr/progressBarStyleSmall"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical|right"
+            android:layout_marginRight="@dimen/d10"
+            android:visibility="gone" />
+    </android.support.v7.widget.Toolbar>
+
+    <RelativeLayout
+        android:id="@+id/main_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"/>
+
+</LinearLayout>

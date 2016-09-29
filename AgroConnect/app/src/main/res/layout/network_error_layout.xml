@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ViewSwitcher xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/network_error_switcher"
+    android:layout_width="match_parent"
+    android:layout_height="200dp"
+    android:layout_gravity="center_horizontal"
+    android:foregroundGravity="center_vertical"
+    android:visibility="gone"
+    tools:visibility="visible"
+    android:padding="8dp">
+
+
+    <RelativeLayout
+        android:id="@+id/network_error_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:id="@+id/network_error_image"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:src="@drawable/ic_cloud_outline_off_grey600_48dp" />
+
+        <TextView
+            android:id="@+id/network_error_mesage"
+            style="@android:style/TextAppearance.Large"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/network_error_image"
+            android:gravity="center_horizontal"
+            android:text="@string/no_network_connection" />
+
+        <android.support.v7.widget.AppCompatButton
+            android:id="@+id/network_error_retry_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/network_error_mesage"
+            android:layout_centerInParent="true"
+            android:elevation="4dp"
+            android:text="Retry" />
+    </RelativeLayout>
+
+    <ProgressBar
+        android:id="@+id/network_retry_progess"
+        style="?android:attr/progressBarStyleInverse"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:elevation="4dp" />
+
+</ViewSwitcher>
